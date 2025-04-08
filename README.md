@@ -2,6 +2,8 @@
 
 Eventory is an innovative event management solution that leverages blockchain technology, artificial intelligence, and virtual reality to transform the way users discover, attend, and interact with events. The platform combines cutting-edge technologies with a user-centric design to offer a seamless, secure, and immersive experience for both event attendees and organizers.
 
+### Deployment - https://eventory-nu.vercel.app
+
 ---
 
 ## Overview
